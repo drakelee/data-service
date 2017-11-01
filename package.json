@@ -1,0 +1,22 @@
+{
+  "name": "data-service",
+  "version": "1.0.0",
+  "description": "Interfaces with database",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drakelee/data-service.git"
+  },
+  "keywords": [
+    "data"
+  ],
+  "author": "Drake Lee",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/drakelee/data-service/issues"
+  },
+  "homepage": "https://github.com/drakelee/data-service#readme"
+}
