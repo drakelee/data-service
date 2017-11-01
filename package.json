@@ -13,6 +13,9 @@
   "keywords": [
     "data"
   ],
+  "dependencies": {
+    "server-common": "git+ssh://git@github.com/drakelee/server-common.git#9fe23de"
+  },
   "author": "Drake Lee",
   "license": "UNLICENSED",
   "bugs": {
